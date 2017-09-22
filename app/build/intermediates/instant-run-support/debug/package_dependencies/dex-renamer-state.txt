@@ -1,0 +1,22 @@
+#Thu Sep 21 20:56:21 SGT 2017
+renamed.6=classes3.dex
+renamed.5=classes5.dex
+renamed.4=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes6.dex
+renamed.0=classes7.dex
+base.6=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_612ca7355751ce2ea8fddad9f8657aef70dbe219
+base.5=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f1fbcb4fc2fd637bd2c5abb0380946b3ab4ef937
+base.4=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3212cf6fba04ebd71c1630d0b8e4a171454b6f10
+base.3=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7c78af2e1924aa2f38a91f76c8fbc7ab55a06d07
+base.2=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3fe54d7a5b22423fbad0cb51e2de5a4622599597
+base.1=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f34276d4b172b6d9b23bc72913403f8c7a662367
+base.0=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.1.0_943a0063b6b2088fd6975c8873813618f7072f3d
+file.6=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_612ca7355751ce2ea8fddad9f8657aef70dbe219\\classes.dex
+file.5=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f1fbcb4fc2fd637bd2c5abb0380946b3ab4ef937\\classes.dex
+file.4=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3212cf6fba04ebd71c1630d0b8e4a171454b6f10\\classes.dex
+file.3=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7c78af2e1924aa2f38a91f76c8fbc7ab55a06d07\\classes.dex
+file.2=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3fe54d7a5b22423fbad0cb51e2de5a4622599597\\classes.dex
+file.1=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f34276d4b172b6d9b23bc72913403f8c7a662367\\classes.dex
+file.0=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.1.0_943a0063b6b2088fd6975c8873813618f7072f3d\\classes.dex

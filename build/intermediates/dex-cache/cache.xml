@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\.android\build-cache\13999ece75da5014efa4020f80147b85f8d56f9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\intermediates\pre-dexed\debug\classes_7c78af2e1924aa2f38a91f76c8fbc7ab55a06d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\.android\build-cache\a853ed9cf9c461b90c44ae88b81da5be4b9caf19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\intermediates\pre-dexed\debug\classes_f1fbcb4fc2fd637bd2c5abb0380946b3ab4ef937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\.android\build-cache\3b42a28b5e3b5899a7c723df07a109bcc3f5c997\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\intermediates\pre-dexed\debug\classes_f34276d4b172b6d9b23bc72913403f8c7a662367.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\.android\build-cache\f2d34ab75f335105742b96c0d8be2cd775e7264e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\intermediates\pre-dexed\debug\classes_3fe54d7a5b22423fbad0cb51e2de5a4622599597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_943a0063b6b2088fd6975c8873813618f7072f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\.android\build-cache\9ea23f9ca9130a14a3aa25b2b725fdc0c7d64748\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\intermediates\pre-dexed\debug\classes_612ca7355751ce2ea8fddad9f8657aef70dbe219.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="998d1be17b924b79472967a993ae5a020ac0ebb8">
+        <dex dex="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fe458b9290fa4aa470aedbbdd89b4a05e7614de0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\.android\build-cache\32eef899f3edfca1ef833d49e56a866fd4f82b2e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\intermediates\pre-dexed\debug\classes_3212cf6fba04ebd71c1630d0b8e4a171454b6f10.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2dd8de7722b04ac50393f926b29fa069fc0dbf5a\classes.dex" />
+    </item>
+
+</items>

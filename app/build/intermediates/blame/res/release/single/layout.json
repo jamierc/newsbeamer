@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\res\\merged\\release\\layout\\swipey_tab_indicator.xml",
+        "source": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\layout\\swipey_tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\res\\merged\\release\\layout\\preferences.xml",
+        "source": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\layout\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\res\\merged\\release\\layout\\about.xml",
+        "source": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\res\\merged\\release\\layout\\help.xml",
+        "source": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_swipeytab.xml",
+        "source": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\layout\\fragment_swipeytab.xml"
+    }
+]

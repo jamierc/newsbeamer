@@ -1,0 +1,278 @@
+[
+    {
+        "outputFile": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 19,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endLine": 23,
+                    "endColumn": 19,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endLine": 30,
+                    "endColumn": 20,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 786,
+                    "endLine": 37,
+                    "endColumn": 19,
+                    "endOffset": 975
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 980,
+                    "endLine": 91,
+                    "endColumn": 19,
+                    "endOffset": 2883
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endLine": 88,
+                        "endColumn": 19,
+                        "endOffset": 2769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2888,
+                    "endLine": 144,
+                    "endColumn": 19,
+                    "endOffset": 4714
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 2776,
+                        "endLine": 142,
+                        "endColumn": 19,
+                        "endOffset": 4602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 4926,
+                    "endColumn": 54,
+                    "endOffset": 4976
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 4981,
+                    "endColumn": 50,
+                    "endOffset": 5027
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 5032,
+                    "endColumn": 62,
+                    "endOffset": 5090
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 5095,
+                    "endColumn": 36,
+                    "endOffset": 5127
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 5132,
+                    "endColumn": 36,
+                    "endOffset": 5164
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 5169,
+                    "endLine": 153,
+                    "endColumn": 16,
+                    "endOffset": 5254
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 5259,
+                    "endLine": 157,
+                    "endColumn": 12,
+                    "endOffset": 5423
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 5428,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 5635
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 5640,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 5911
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 5916,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 6078
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 6083,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 6245
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 6250,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 6414
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 6419,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 6637
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 6642,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 6909
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

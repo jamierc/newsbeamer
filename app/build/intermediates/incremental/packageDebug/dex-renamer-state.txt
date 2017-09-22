@@ -1,0 +1,7 @@
+#Thu Sep 21 20:56:24 SGT 2017
+base.0=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fe458b9290fa4aa470aedbbdd89b4a05e7614de0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2dd8de7722b04ac50393f926b29fa069fc0dbf5a\\classes.dex
+base.1=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2dd8de7722b04ac50393f926b29fa069fc0dbf5a
+file.0=C\:\\Users\\Asus\\Documents\\Android\\newsbeamer2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fe458b9290fa4aa470aedbbdd89b4a05e7614de0\\classes.dex

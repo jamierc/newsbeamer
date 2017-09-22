@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:3:7-41
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:9:5-13:40
+	android:largeScreens
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:13:9-37
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:16:22-76
+application
+ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:18:5-32:19
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.android\build-cache\32eef899f3edfca1ef833d49e56a866fd4f82b2e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Asus\.android\build-cache\13999ece75da5014efa4020f80147b85f8d56f9b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Asus\.android\build-cache\9ea23f9ca9130a14a3aa25b2b725fdc0c7d64748\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Asus\.android\build-cache\f2d34ab75f335105742b96c0d8be2cd775e7264e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Asus\.android\build-cache\a853ed9cf9c461b90c44ae88b81da5be4b9caf19\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Asus\.android\build-cache\3b42a28b5e3b5899a7c723df07a109bcc3f5c997\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:19:9-45
+activity#com.jrcdesign.newsbeamer.MainActivity
+ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:label
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:22:19-51
+	android:name
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:21:19-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.jrcdesign.newsbeamer.Settings
+ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:29:10-31:20
+	android:label
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:30:19-51
+	android:name
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:29:20-68
+uses-sdk
+INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.android\build-cache\32eef899f3edfca1ef833d49e56a866fd4f82b2e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Asus\.android\build-cache\13999ece75da5014efa4020f80147b85f8d56f9b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Asus\.android\build-cache\9ea23f9ca9130a14a3aa25b2b725fdc0c7d64748\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Asus\.android\build-cache\f2d34ab75f335105742b96c0d8be2cd775e7264e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Asus\.android\build-cache\a853ed9cf9c461b90c44ae88b81da5be4b9caf19\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Asus\.android\build-cache\3b42a28b5e3b5899a7c723df07a109bcc3f5c997\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.android\build-cache\32eef899f3edfca1ef833d49e56a866fd4f82b2e\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
