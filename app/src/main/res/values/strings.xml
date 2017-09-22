@@ -34,8 +34,9 @@
     
     
     <string-array name="recipe_array">
-       
-         <item>Aksiyon Dergisi</item>
+
+        <item>1843 magazine</item>
+        <item>Aksiyon Dergisi</item>
         <item> BBC Brasil</item>
          <item>BBC News</item>
          <item>BBC Sport</item>
@@ -51,7 +52,7 @@
         <item>Foreign Affairs (subscription)</item>
         <item>Glasgow Herald</item>
         <item>Heise</item>
-        <item>Intelligent Life</item>
+
         <item>Live Mint</item>
         <item>Le Devoir</item>
 
@@ -91,7 +92,8 @@
     </string-array>
  
     <string-array name="recipe_values">
-         <item>Aksiyon Dergisi</item>
+        <item>1843</item>
+        <item>Aksiyon Dergisi</item>
         <item> BBC Brasil</item>
         <item>bbcnewsfast</item>
          <item>bbcsport_fast</item>
@@ -107,9 +109,9 @@
         <item>Foreign Affairs (Subcription)</item>
         <item>Glasgow Herald</item>
         <item>Heise Open</item>
-      <item>moreintelligentlife</item>
+
         <item>Live Mint</item>
-        <item>Le Devoir</item>
+        <item>Le Devoir </item>
 
         <item>Le Monde</item>
         <item>Le Temps</item>
