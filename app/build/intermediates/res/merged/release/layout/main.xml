@@ -38,9 +38,9 @@
       android:layout_width="fill_parent"
       android:layout_height="wrap_content"
       android:ems="10"
-      android:inputType="text" 
-     
-     android:hint="user ID"
+      android:hint="user ID"
+
+      android:inputType="text"
       android:visibility="invisible">
 
     </EditText>
@@ -50,12 +50,12 @@
       android:layout_width="fill_parent"
       android:layout_height="wrap_content"
       android:ems="10"
-      android:inputType="textPassword" 
-      android:visibility="invisible"
-      
-      android:hint="password">
+      android:hint="password"
+      android:inputType="textPassword"
 
-    </EditText>
+      android:visibility="invisible">
+
+  </EditText>
     
   
   
@@ -84,8 +84,8 @@
     android:background="@android:color/darker_gray"/>
     
     <View
-  android:layout_width="1dp"
         android:id="@+id/space1"
+        android:layout_width="1dp"
   android:layout_height="10dp">
 </View>
       
@@ -96,7 +96,7 @@
         
          android:layout_width="fill_parent"
          android:layout_height="wrap_content"
-         android:text="Send later:" />
+    android:text="Send later:" />
 
 
 
@@ -112,11 +112,13 @@
  android:layout_weight="1"
          android:text="Set date"
      />
-    <Button 
+
+    <Button
+        android:id="@+id/Button01"
         android:layout_width="wrap_content"
- android:layout_height="wrap_content"
-  android:layout_weight="1"
-        android:id="@+id/Button01" android:text="Set time (local)"/>
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Set time (local)" />
    
     
 </LinearLayout>
@@ -138,9 +140,9 @@
       android:layout_width="fill_parent"
       android:layout_height="wrap_content"
       android:ems="10"
-      android:inputType="text" 
-      android:visibility="invisible"
-      android:text="">
+              android:inputType="text"
+              android:text=""
+              android:visibility="invisible">
 
     </EditText>
     
@@ -152,9 +154,9 @@
       android:layout_width="fill_parent"
       android:layout_height="wrap_content"
       android:ems="10"
-      android:inputType="text" 
-      android:visibility="invisible"
-      android:text="">
+          android:inputType="text"
+          android:text=""
+          android:visibility="invisible">
 
     </EditText>
     

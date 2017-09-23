@@ -21,13 +21,10 @@
                     android:title="Output" />
 
 
-
-
-
             <Preference
                     android:key="customPref"
                 android:summary=""
-                    android:title="Email the devs"
+                android:title="Email the devs"
             
                 />
 

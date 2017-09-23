@@ -7,8 +7,8 @@ android {
         applicationId "com.jrcdesign.newsbeamer"
         minSdkVersion 22
         targetSdkVersion 25
-        versionCode 421
-        versionName 'timezones'
+        versionCode 424
+        versionName 'compression'
     }
     buildTypes {
         release {

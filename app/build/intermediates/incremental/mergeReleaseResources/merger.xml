@@ -7,10 +7,11 @@
         <item>Kindle</item>
         <item>Nook</item>  
         <item>Kobo</item>  
-        <item>iPad</item>  
-        <item>PDF</item>  
-     </string-array><string-array name="recipe_values">
-         <item>Aksiyon Dergisi</item>
+        <item>iPad</item>
+        <item>PDF</item>
+    </string-array><string-array name="recipe_values">
+        <item>1843</item>
+        <item>Aksiyon Dergisi</item>
         <item> BBC Brasil</item>
         <item>bbcnewsfast</item>
          <item>bbcsport_fast</item>
@@ -26,14 +27,18 @@
         <item>Foreign Affairs (Subcription)</item>
         <item>Glasgow Herald</item>
         <item>Heise Open</item>
-      <item>moreintelligentlife</item>
-        <item>Live Mint</item>
+        <item>Indian Express</item>
+
+        <item>intel</item>
+
+        <item>ledev</item>
         <item>Le Monde</item>
         <item>Le Temps</item>
+        <item>Live Mint</item>
         <item>Los Angeles Times</item>
         <item>Metro UK</item>
-        <item>National Geographic</item>
-       <item>New Statesman</item>
+        <item>natgeo</item>
+        <item>New Statesman</item>
         <item>Now Toronto</item>
         <item>O Globo</item>
         <item>PCWorld</item>
@@ -72,8 +77,8 @@
         
 
     </string-array><string name="app_name">NewsBeamer Reader</string><string-array name="recipe_array">
-       
-         <item>Aksiyon Dergisi</item>
+        <item>1843</item>
+        <item>Aksiyon Dergisi</item>
         <item> BBC Brasil</item>
          <item>BBC News</item>
          <item>BBC Sport</item>
@@ -89,10 +94,14 @@
         <item>Foreign Affairs (subscription)</item>
         <item>Glasgow Herald</item>
         <item>Heise</item>
-      <item>Intelligent Life</item>
-        <item>Live Mint</item>
+        <item>Indian Express</item>
+
+        <item>Intelligent Life</item>
+        <item>Le Devoir</item>
         <item>Le Monde</item>
         <item>Le Temps</item>
+        <item>Live Mint</item>
+
         <item>Los Angeles Times</item>
         <item>Metro UK</item>
         <item>National Geographic</item>

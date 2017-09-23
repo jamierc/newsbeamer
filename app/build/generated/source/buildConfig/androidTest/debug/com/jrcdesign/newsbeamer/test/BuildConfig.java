@@ -8,6 +8,6 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "com.jrcdesign.newsbeamer.test";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
-  public static final int VERSION_CODE = 421;
-  public static final String VERSION_NAME = "timezones";
+  public static final int VERSION_CODE = 424;
+  public static final String VERSION_NAME = "compression";
 }
