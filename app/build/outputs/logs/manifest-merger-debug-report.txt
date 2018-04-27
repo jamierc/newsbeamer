@@ -1,18 +1,32 @@
 -- Merging decision tree log ---
 manifest
 ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\e63ad1ab085274d9b9229354c8138c34\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\ed142fd21e0bba889edd8afff35d894f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\e0719e041903facba53297f5f52589f3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\9f28a8a0c37bc36ab468af3f57c79118\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\ae4447d4ba79f5fd0d2b2bfab3402778\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\7c897c45373928a58f5ba58a5c24a7c9\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
 		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:3:7-41
 		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:1-35:12
 		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
 supports-screens
 ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:9:5-13:40
 	android:largeScreens
@@ -33,12 +47,18 @@ ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidMa
 		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:16:22-76
 application
 ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:18:5-32:19
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.android\build-cache\32eef899f3edfca1ef833d49e56a866fd4f82b2e\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Asus\.android\build-cache\13999ece75da5014efa4020f80147b85f8d56f9b\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Asus\.android\build-cache\9ea23f9ca9130a14a3aa25b2b725fdc0c7d64748\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Asus\.android\build-cache\f2d34ab75f335105742b96c0d8be2cd775e7264e\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Asus\.android\build-cache\a853ed9cf9c461b90c44ae88b81da5be4b9caf19\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Asus\.android\build-cache\3b42a28b5e3b5899a7c723df07a109bcc3f5c997\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\e63ad1ab085274d9b9229354c8138c34\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\e63ad1ab085274d9b9229354c8138c34\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\ed142fd21e0bba889edd8afff35d894f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\ed142fd21e0bba889edd8afff35d894f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\e0719e041903facba53297f5f52589f3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\e0719e041903facba53297f5f52589f3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\9f28a8a0c37bc36ab468af3f57c79118\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\9f28a8a0c37bc36ab468af3f57c79118\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\ae4447d4ba79f5fd0d2b2bfab3402778\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\ae4447d4ba79f5fd0d2b2bfab3402778\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\7c897c45373928a58f5ba58a5c24a7c9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\7c897c45373928a58f5ba58a5c24a7c9\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:20:9-41
 	android:icon
@@ -67,17 +87,29 @@ ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidMa
 		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml:29:20-68
 uses-sdk
 INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.android\build-cache\32eef899f3edfca1ef833d49e56a866fd4f82b2e\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Asus\.android\build-cache\13999ece75da5014efa4020f80147b85f8d56f9b\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Asus\.android\build-cache\9ea23f9ca9130a14a3aa25b2b725fdc0c7d64748\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Asus\.android\build-cache\f2d34ab75f335105742b96c0d8be2cd775e7264e\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Asus\.android\build-cache\a853ed9cf9c461b90c44ae88b81da5be4b9caf19\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Asus\.android\build-cache\3b42a28b5e3b5899a7c723df07a109bcc3f5c997\output\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\e63ad1ab085274d9b9229354c8138c34\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\e63ad1ab085274d9b9229354c8138c34\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\ed142fd21e0bba889edd8afff35d894f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\ed142fd21e0bba889edd8afff35d894f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\e0719e041903facba53297f5f52589f3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\e0719e041903facba53297f5f52589f3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\9f28a8a0c37bc36ab468af3f57c79118\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\9f28a8a0c37bc36ab468af3f57c79118\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\ae4447d4ba79f5fd0d2b2bfab3402778\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\ae4447d4ba79f5fd0d2b2bfab3402778\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\7c897c45373928a58f5ba58a5c24a7c9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\7c897c45373928a58f5ba58a5c24a7c9\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.android\build-cache\32eef899f3edfca1ef833d49e56a866fd4f82b2e\output\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:25.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\e63ad1ab085274d9b9229354c8138c34\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\AndroidManifest.xml

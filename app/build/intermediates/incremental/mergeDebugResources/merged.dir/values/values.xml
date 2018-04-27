@@ -23,15 +23,13 @@
 
     </string-array>
     <string-array name="listArray">
-        <item>Kindle</item>
-        <item>Nook</item>  
-        <item>Kobo</item>  
+        <item>Mobi (Kindle)</item>
+        <item>ePub (Nook, Kobo)</item>
         <item>iPad</item>
         <item>PDF</item>
     </string-array>
     <string-array name="listValues">
         <item>kindle</item>
-        <item>nook</item>  
         <item>kobo</item>
         <item>ipad</item>  
         <item>pdf</item>  
@@ -54,10 +52,11 @@
         <item>Foreign Affairs (subscription)</item>
         <item>Glasgow Herald</item>
         <item>Heise</item>
+        <item>India Today</item>
+
         <item>Indian Express</item>
 
-        <item>Intelligent Life</item>
-        <item>Le Devoir</item>
+        <item>Le Devoir (subscription)</item>
         <item>Le Monde</item>
         <item>Le Temps</item>
         <item>Live Mint</item>
@@ -75,7 +74,8 @@
       <item>The Atlantic</item>
         <item>The Economist (subscription)</item>
         <item>The Guardian</item>
-       <item>The Houston Chronicle</item>
+        <item>The Hindu</item>
+        <item>The Houston Chronicle</item>
         <item>The Independent</item>
       <item>The Irish Times</item>
         <item>The New York Times (subscription)</item>
@@ -92,11 +92,12 @@
        <item>USA Today</item>
       <item>ZAMAN Gazetesi</item>
         <item>Zeit Online</item>
+        <item>Zero Hedge</item>
 
     </string-array>
     <string-array name="recipe_values">
-        <item>1843</item>
-        <item>Aksiyon Dergisi</item>
+        <item>"oneeightfourthree"</item>
+        <item>"Aksiyon Dergisi"</item>
         <item> BBC Brasil</item>
         <item>bbcnewsfast</item>
          <item>bbcsport_fast</item>
@@ -112,11 +113,9 @@
         <item>Foreign Affairs (Subcription)</item>
         <item>Glasgow Herald</item>
         <item>Heise Open</item>
+        <item>India Today</item>
         <item>Indian Express</item>
-
-        <item>intel</item>
-
-        <item>ledev</item>
+        <item>"Le Devoir "</item>
         <item>Le Monde</item>
         <item>Le Temps</item>
         <item>Live Mint</item>
@@ -133,10 +132,11 @@
         <item>The Atlantic</item>
          <item>The Economist</item>
         <item>The Guardian and The Observer</item>
-       <item>The Houston Chronicle</item>
+        <item>The Hindu</item>
+        <item>The Houston Chronicle</item>
         <item>The Independent</item>
       <item>The Irish Times</item>
-        <item>New York Times</item>
+        <item>The New York Times</item>
         <item>The New Yorker</item>
         <item>The Scotsman</item>
         <item>The Straits Times</item>
@@ -145,11 +145,12 @@
         <item>The Times of India</item>
         <item>The Wall Street Journal</item>
         <item>The Washington Post</item>
-       <item>The Week Magazine</item>
+       <item>TheWeek.com</item>
         <item>Time</item>
         <item>USA Today</item>
       <item>ZAMAN Gazetesi</item>
         <item>Zeit Online</item>
+        <item>Zero Hedge</item>
 
     </string-array>
     <declare-styleable name="SwipeyTabs"><attr format="color" name="bottomBarColor"/><attr format="dimension" name="bottomBarHeight"/><attr format="dimension" name="tabIndicatorHeight"/></declare-styleable>
@@ -159,7 +160,7 @@
     <string name="strSelectedDate"/>
     <string name="strSelectedTime"/>
     <style name="AppTheme" parent="android:Theme.Material">
-            
+            <!-- theme customizations -->
         </style>
     <style name="Theme" parent="android:Theme">
         <item name="android:background">@null</item>

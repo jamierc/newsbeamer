@@ -1,72 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="output$Generated" generated="true"><source path="C:\Users\Asus\.android\build-cache\3b42a28b5e3b5899a7c723df07a109bcc3f5c997\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\Asus\.android\build-cache\a853ed9cf9c461b90c44ae88b81da5be4b9caf19\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\Asus\.android\build-cache\f2d34ab75f335105742b96c0d8be2cd775e7264e\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\Asus\.android\build-cache\9ea23f9ca9130a14a3aa25b2b725fdc0c7d64748\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\Asus\.android\build-cache\13999ece75da5014efa4020f80147b85f8d56f9b\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\Asus\.android\build-cache\32eef899f3edfca1ef833d49e56a866fd4f82b2e\output\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res"/><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\generated\res\rs\release"/><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\release\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\Asus\.android\build-cache\3b42a28b5e3b5899a7c723df07a109bcc3f5c997\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\Asus\.android\build-cache\a853ed9cf9c461b90c44ae88b81da5be4b9caf19\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\Asus\.android\build-cache\f2d34ab75f335105742b96c0d8be2cd775e7264e\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\Asus\.android\build-cache\9ea23f9ca9130a14a3aa25b2b725fdc0c7d64748\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\Asus\.android\build-cache\13999ece75da5014efa4020f80147b85f8d56f9b\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\Asus\.android\build-cache\32eef899f3edfca1ef833d49e56a866fd4f82b2e\output\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res"><file name="ic_launcher" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="rounded_cell" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\drawable-hdpi\rounded_cell.xml" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="about" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\about.xml" qualifiers="" type="layout"/><file name="fragment_swipeytab" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\fragment_swipeytab.xml" qualifiers="" type="layout"/><file name="help" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\help.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="preferences" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\preferences.xml" qualifiers="" type="layout"/><file name="swipey_tab_indicator" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\swipey_tab_indicator.xml" qualifiers="" type="layout"/><file name="main_menu" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\menu\main_menu.xml" qualifiers="" type="menu"/><file path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="SwipeyTabs">
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res"/><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\generated\res\rs\release"/><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\generated\res\resValues\release"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res"><file name="ic_launcher" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="rounded_cell" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\drawable-hdpi\rounded_cell.xml" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="about" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\about.xml" qualifiers="" type="layout"/><file name="fragment_swipeytab" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\fragment_swipeytab.xml" qualifiers="" type="layout"/><file name="help" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\help.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="preferences" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\preferences.xml" qualifiers="" type="layout"/><file name="swipey_tab_indicator" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\layout\swipey_tab_indicator.xml" qualifiers="" type="layout"/><file name="main_menu" path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\menu\main_menu.xml" qualifiers="" type="menu"/><file path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="SwipeyTabs">
         <attr format="color" name="bottomBarColor"/>
         <attr format="dimension" name="bottomBarHeight"/>
         <attr format="dimension" name="tabIndicatorHeight"/>
-    </declare-styleable></file><file path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\values\strings.xml" qualifiers=""><string name="recipe_prompt">Choose a publication</string><string name="menu_settings">Settings</string><string name="strSelectedDate"/><string-array name="listArray">
-        <item>Kindle</item>
-        <item>Nook</item>  
-        <item>Kobo</item>  
-        <item>iPad</item>
-        <item>PDF</item>
-    </string-array><string-array name="recipe_values">
-        <item>1843</item>
-        <item>Aksiyon Dergisi</item>
-        <item> BBC Brasil</item>
-        <item>bbcnewsfast</item>
-         <item>bbcsport_fast</item>
-        <item>Caravan Magazine</item>
-        <item>CNET News</item>
-        <item>CNN</item>
-      <item>Spiegel Online - German</item>
-        <item>El Pais</item>
-        <item>Esquire</item>
-        <item>Engadget</item>
-        <item>FAZ.NET</item>
-        <item>fol</item>
-        <item>Foreign Affairs (Subcription)</item>
-        <item>Glasgow Herald</item>
-        <item>Heise Open</item>
-        <item>Indian Express</item>
-
-        <item>intel</item>
-
-        <item>ledev</item>
-        <item>Le Monde</item>
-        <item>Le Temps</item>
-        <item>Live Mint</item>
-        <item>Los Angeles Times</item>
-        <item>Metro UK</item>
-        <item>natgeo</item>
-        <item>New Statesman</item>
-        <item>Now Toronto</item>
-        <item>O Globo</item>
-        <item>PCWorld</item>
-        <item>Pravda</item>
-        <item>Prospect Magazine (subscription)</item>
-        <item>sud</item>
-        <item>The Atlantic</item>
-         <item>The Economist</item>
-        <item>The Guardian and The Observer</item>
-       <item>The Houston Chronicle</item>
-        <item>The Independent</item>
-      <item>The Irish Times</item>
-        <item>New York Times</item>
-        <item>The New Yorker</item>
-        <item>The Scotsman</item>
-        <item>The Straits Times</item>
-        <item>Telegraph.co.uk</item>
-        <item>The Times &amp; Sunday Times (UK)</item>
-        <item>The Times of India</item>
-        <item>The Wall Street Journal</item>
-        <item>The Washington Post</item>
-       <item>The Week Magazine</item>
-        <item>Time</item>
-        <item>USA Today</item>
-      <item>ZAMAN Gazetesi</item>
-        <item>Zeit Online</item>
-
-    </string-array><string-array name="cacheArray">
+    </declare-styleable></file><file path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">NewsBeamer Reader</string><string name="menu_settings">Settings</string><string name="strSelectedDate"/><string name="strSelectedTime"/><string name="recipe_prompt">Choose a publication</string><string-array name="cacheArray">
         <item>"1 hour" </item>
         <item>"2 hours" </item>
         <item>"6 hours" </item>
@@ -76,7 +13,17 @@
         <item>"Any age" </item>
         
 
-    </string-array><string name="app_name">NewsBeamer Reader</string><string-array name="recipe_array">
+    </string-array><string-array name="cacheValues">
+        <item>1</item>
+        <item>2</item>
+        <item>6</item>
+        <item>12</item>
+        <item>24</item>
+        <item>48</item>
+        <item>Any</item>
+                
+
+    </string-array><string-array name="recipe_array">
         <item>1843</item>
         <item>Aksiyon Dergisi</item>
         <item> BBC Brasil</item>
@@ -94,10 +41,11 @@
         <item>Foreign Affairs (subscription)</item>
         <item>Glasgow Herald</item>
         <item>Heise</item>
+        <item>India Today</item>
+
         <item>Indian Express</item>
 
-        <item>Intelligent Life</item>
-        <item>Le Devoir</item>
+        <item>Le Devoir (subscription)</item>
         <item>Le Monde</item>
         <item>Le Temps</item>
         <item>Live Mint</item>
@@ -115,7 +63,8 @@
       <item>The Atlantic</item>
         <item>The Economist (subscription)</item>
         <item>The Guardian</item>
-       <item>The Houston Chronicle</item>
+        <item>The Hindu</item>
+        <item>The Houston Chronicle</item>
         <item>The Independent</item>
       <item>The Irish Times</item>
         <item>The New York Times (subscription)</item>
@@ -132,57 +81,109 @@
        <item>USA Today</item>
       <item>ZAMAN Gazetesi</item>
         <item>Zeit Online</item>
+        <item>Zero Hedge</item>
 
-    </string-array><string-array name="cacheValues">
-        <item>1</item>
-        <item>2</item>
-        <item>6</item>
-        <item>12</item>
-        <item>24</item>
-        <item>48</item>
-        <item>Any</item>
-                
+    </string-array><string-array name="recipe_values">
+        <item>"oneeightfourthree"</item>
+        <item>"Aksiyon Dergisi"</item>
+        <item> BBC Brasil</item>
+        <item>bbcnewsfast</item>
+         <item>bbcsport_fast</item>
+        <item>Caravan Magazine</item>
+        <item>CNET News</item>
+        <item>CNN</item>
+      <item>Spiegel Online - German</item>
+        <item>El Pais</item>
+        <item>Esquire</item>
+        <item>Engadget</item>
+        <item>FAZ.NET</item>
+        <item>fol</item>
+        <item>Foreign Affairs (Subcription)</item>
+        <item>Glasgow Herald</item>
+        <item>Heise Open</item>
+        <item>India Today</item>
+        <item>Indian Express</item>
+        <item>"Le Devoir "</item>
+        <item>Le Monde</item>
+        <item>Le Temps</item>
+        <item>Live Mint</item>
+        <item>Los Angeles Times</item>
+        <item>Metro UK</item>
+        <item>natgeo</item>
+        <item>New Statesman</item>
+        <item>Now Toronto</item>
+        <item>O Globo</item>
+        <item>PCWorld</item>
+        <item>Pravda</item>
+        <item>Prospect Magazine (subscription)</item>
+        <item>sud</item>
+        <item>The Atlantic</item>
+         <item>The Economist</item>
+        <item>The Guardian and The Observer</item>
+        <item>The Hindu</item>
+        <item>The Houston Chronicle</item>
+        <item>The Independent</item>
+      <item>The Irish Times</item>
+        <item>The New York Times</item>
+        <item>The New Yorker</item>
+        <item>The Scotsman</item>
+        <item>The Straits Times</item>
+        <item>Telegraph.co.uk</item>
+        <item>The Times &amp; Sunday Times (UK)</item>
+        <item>The Times of India</item>
+        <item>The Wall Street Journal</item>
+        <item>The Washington Post</item>
+       <item>TheWeek.com</item>
+        <item>Time</item>
+        <item>USA Today</item>
+      <item>ZAMAN Gazetesi</item>
+        <item>Zeit Online</item>
+        <item>Zero Hedge</item>
 
-    </string-array><string name="strSelectedTime"/><string-array name="listValues">
+    </string-array><string-array name="listArray">
+        <item>Mobi (Kindle)</item>
+        <item>ePub (Nook, Kobo)</item>
+        <item>iPad</item>
+        <item>PDF</item>
+    </string-array><string-array name="listValues">
         <item>kindle</item>
-        <item>nook</item>  
         <item>kobo</item>
         <item>ipad</item>  
         <item>pdf</item>  
     </string-array></file><file path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="android:Theme.Material">
             
-        </style><style name="text_option">
+        </style><style name="Theme" parent="android:Theme">
+        <item name="android:background">@null</item>
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="text_title">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:gravity">center</item>
+    </style><style name="text_option">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textColor">#000000</item>
     </style><style name="layout_wrap">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
-    </style><style name="layout_f_w">
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">wrap_content</item>
     </style><style name="layout_fill">
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">fill_parent</item>
+    </style><style name="layout_f_w">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="h_line">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.5dip</item>
+        <item name="android:background">#0000ff</item>
     </style><style name="indicator_style">
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">4dip</item>
         <item name="android:background">#0000ff</item>
         <item name="android:orientation">vertical</item>
-    </style><style name="text_title">
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:textColor">#000000</item>
-        <item name="android:gravity">center</item>
-    </style><style name="h_line">
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">1.5dip</item>
-        <item name="android:background">#0000ff</item>
-    </style><style name="Theme" parent="android:Theme">
-        <item name="android:background">@null</item>
-        <item name="android:windowNoTitle">true</item>
     </style></file><file path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
         
     </style></file><file path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
         
-    </style></file></source><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\generated\res\rs\release"/><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SwipeyTabs"><attr format="color" name="bottomBarColor"/><attr format="dimension" name="bottomBarHeight"/><attr format="dimension" name="tabIndicatorHeight"/></declare-styleable></configuration></mergedItems></merger>
+    </style></file></source><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\generated\res\rs\release"/><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\release\res"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="C:\Users\Asus\Documents\Android\newsbeamer2017\app\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SwipeyTabs"><attr format="color" name="bottomBarColor"/><attr format="dimension" name="bottomBarHeight"/><attr format="dimension" name="tabIndicatorHeight"/></declare-styleable></configuration></mergedItems></merger>
