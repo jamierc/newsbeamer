@@ -44,6 +44,7 @@
         <item>CNET</item>
         <item>CNN</item>
         <item>Der Spiegel</item>
+        <item>El Mundo</item>
         <item>El Pais</item>
         <item>Esquire</item>
         <item>Engadget</item>
@@ -62,6 +63,9 @@
         <item>Live Mint</item>
 
         <item>Los Angeles Times</item>
+        <item>Marca</item>
+
+
         <item>Metro UK</item>
         <item>National Geographic</item>
        <item>New Statesman</item>
@@ -90,7 +94,8 @@
         <item>The Week</item>
         <item>Time (subscription)</item>
        <item>USA Today</item>
-      <item>ZAMAN Gazetesi</item>
+        <item>Xataka></item>
+        <item>ZAMAN Gazetesi</item>
         <item>Zeit Online</item>
         <item>Zero Hedge</item>
 
@@ -105,6 +110,8 @@
         <item>CNET News</item>
         <item>CNN</item>
       <item>Spiegel Online - German</item>
+        <item>El Mundo</item>
+
         <item>El Pais</item>
         <item>Esquire</item>
         <item>Engadget</item>
@@ -120,6 +127,9 @@
         <item>Le Temps</item>
         <item>Live Mint</item>
         <item>Los Angeles Times</item>
+        <item>Marca</item>
+
+
         <item>Metro UK</item>
         <item>natgeo</item>
         <item>New Statesman</item>
@@ -145,10 +155,13 @@
         <item>The Times of India</item>
         <item>The Wall Street Journal</item>
         <item>The Washington Post</item>
-       <item>TheWeek.com</item>
+        <item>TheWeek.com</item>
         <item>Time</item>
         <item>USA Today</item>
-      <item>ZAMAN Gazetesi</item>
+
+        <item>Weblogs SL (Xataka, Genbeta, VidaExtra, Blog de Cine y otros)</item>
+
+        <item>ZAMAN Gazetesi</item>
         <item>Zeit Online</item>
         <item>Zero Hedge</item>
 
@@ -160,7 +173,7 @@
     <string name="strSelectedDate"/>
     <string name="strSelectedTime"/>
     <style name="AppTheme" parent="android:Theme.Material">
-            <!-- theme customizations -->
+            
         </style>
     <style name="Theme" parent="android:Theme">
         <item name="android:background">@null</item>
